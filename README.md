@@ -8,14 +8,15 @@ Prerequisites
 
 # 1.Enable Google People API:
 
-Go to the Google Cloud Console. Create a new project (or select an existing one) https://console.cloud.google.com/projectcreate <br>
+Go to the Google Cloud Console. <br>
+Create a new project (or select an existing one) https://console.cloud.google.com/projectcreate <br>
 Enable the "People API" for your project https://console.cloud.google.com/apis/api/people.googleapis.com/metrics?project= <br>
 
 See https://cloud.google.com/endpoints/docs/openapi/enable-api if you have a problem to enable API <br>
 
 Navigate to the API & Services Dashboard.<br>
 Configure Consent Screen https://console.cloud.google.com/apis/credentials/consent?project= <br>
-Define PeopleAPI scope as Contacts READ ONLY (second step of consent screen) v
+Define PeopleAPI scope as Contacts READ ONLY (second step of consent screen) <br>
 
 # 2.Set Up OAuth 2.0 Credentials:
 
