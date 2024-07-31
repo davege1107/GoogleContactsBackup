@@ -28,4 +28,4 @@ Download the JSON file with your credentials and save it under the name client_s
 
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client vobject <br>
 
-Note: this program does bot support custom attributes except -Related Person -Significant Date v
+Note: this program does bot support custom attributes except -Related Person -Significant Date <br>
