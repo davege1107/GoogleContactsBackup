@@ -22,7 +22,7 @@ Define PeopleAPI scope as Contacts READ ONLY (second step of consent screen) <br
 
 In the API & Services Dashboard, go to "Credentials" https://console.cloud.google.com/apis/credentials?project= <br>
 Create OAuth 2.0 Client ID credentials.<br>
-Download the JSON file with your credentials and save it under the name client_secret.json v
+Download the JSON file with your credentials and save it under the name client_secret.json
 
 # 3.Install Required Libraries:
 
